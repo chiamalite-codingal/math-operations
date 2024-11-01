@@ -1,0 +1,13 @@
+import math
+power = math.pow(2,4)
+print(power)
+flo = math.floor(32.79)
+print(flo)
+ce = math.ceil(32.79)
+print(ce)
+fa = math.fabs(-7)
+print(fa)
+fact = math.factorial(6)
+print(fact)
+gc = math.gcd(46,78)
+print(gc)
